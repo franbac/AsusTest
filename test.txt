@@ -1,2 +1,2 @@
-This is a test file to test my GIT skills. On now on new branch.  For conflict.New testing site. Changed!
+This is a test file to test my GIT skills. On now on new branch.  For conflict.New testing site.
 
