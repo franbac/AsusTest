@@ -1,2 +1,2 @@
-Another minor change. This is a test file to test my GIT skills. On now on new branch.  For conflict.New testing site.
+Happy pushing hand. Another minor change. This is a test file to test my GIT skills. On now on new branch.  For conflict.New testing site.
 
